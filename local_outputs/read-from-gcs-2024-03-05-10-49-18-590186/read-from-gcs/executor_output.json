@@ -1,0 +1,1 @@
+{"artifacts": {"output_dataset": {"artifacts": [{"name": "output_file", "uri": "output_file.parquet", "metadata": {}}]}, "Output": {"artifacts": [{"name": "output_file", "uri": "output_file.parquet", "metadata": {}}]}}}
