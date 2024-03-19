@@ -1,2 +1,5 @@
 kfp
 google
+pandas
+pyarrow
+docker

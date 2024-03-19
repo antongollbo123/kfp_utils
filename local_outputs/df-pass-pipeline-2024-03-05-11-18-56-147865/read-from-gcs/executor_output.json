@@ -1,1 +1,0 @@
-{"artifacts": {"output_dataset": {"artifacts": [{"name": "output_file", "uri": "gs://new_bucket123123213/output_file", "metadata": {}}]}, "Output": {"artifacts": [{"name": "output_file", "uri": "gs://new_bucket123123213/output_file", "metadata": {}}]}}}
